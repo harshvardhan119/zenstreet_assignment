@@ -107,7 +107,7 @@ This project is for educational purposes and is shared with **Zenstreet AI** as 
 
 ---
 
-## tried to make completely Responsive 
+## tried to make completely  Responsive 
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
